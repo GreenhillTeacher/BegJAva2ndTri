@@ -8,6 +8,7 @@ Ver1
 public class AreaOfCircle
 {
     public static void main(String [] args){
+        // Calculating area of a thing
         final double pi=3.14;
         double area;
         double radius= 4;
